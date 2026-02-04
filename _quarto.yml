@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Dexter Howard"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        file: Howard_fullCV.pdf        
+      - icon: github
+        href: https://github.com/dwh77
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dexter-howard-593494199/
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+editor: visual
+

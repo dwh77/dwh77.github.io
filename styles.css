@@ -1,0 +1,25 @@
+/* css styles */
+/* Generic background behavior */
+body {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+
+body.research-bg {
+  background-image: url("images/CCR_2018.jpg");
+}
+
+body.teaching-bg {
+  background-image: url("images/CCR_2018.jpg");
+}
+
+.pubs-bg {
+  background-image: url("images/CCR_2018.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+

@@ -1,0 +1,34 @@
+---
+title: "Teaching"
+class: teaching-bg
+---
+
+# Teaching
+
+I am passionate about education and preparing the next generation to tackle pressing environmental issues. I have worked on two separate educational modules while in graduate school in addition to teaching multiple lab sessions.
+
+## Teaching Experience
+
+### **Freshwater Ecology Laboratory — Graduate Teaching Assistant**
+
+*Virginia Tech, Biological Sciences*
+
+![](images/FWE_teaching_duckpond.jpg){style="float:right; padding-right:10px; width:200px; alt:'Dexter Howard'"}
+
+During the Fall semesters in 2021 - 2025, I led a lab of approximately 16 students and assisting with another of similar size. My role involved guiding students on field trips and lab activities, teaching the fundamentals of freshwater ecology sampling and monitoring. I helped students develop and execute semester-long group research projects, where they developed their own research questions, collected and analyzed data, and presented their results. As the lab session instructor, I was responsible for all grading, and I also assisted with exam grading for the lecture component of the class.
+
+------------------------------------------------------------------------
+
+## Educational Module Development
+
+### **Ethics in Ecological Forecasting**
+
+We developed a set of case studies modules to be used in undergraduate or graduate classes that discuss ethical considerations of developing and disseminating ecological forecasts. These modules were developed with collaborators from the Ecological Forecasting Initiative.
+
+Article on modules: Lewis et al. 2024. Ethics in forecasting: a case-based learning set. Teaching Issues and Experiments in Ecology. Vol. 19: Practice #13.
+
+Teaching resources additionally hosted at QUBES Educational Resources. doi:10.25334/5D99-Y019
+
+### **Building Cultural Awareness: Native American Identity Module**
+
+Co-developed a self-paced course for Virginia Tech students and employees to teach about Native American communities, their citizens, current challenges, and support strategies. This module was developed with collaborators from the Ati: Wa:oki Indigenous Community Center and Global Change Center at Virginia Tech.

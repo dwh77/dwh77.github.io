@@ -1,0 +1,98 @@
+---
+title: "Publications"
+class: pubs-bg
+---
+
+[Google Scholar](https://scholar.google.com/citations?user=I7AaxoAAAAAJ) \| [ResearchGate](https://www.researchgate.net/profile/Dexter-Howard) \| [ORCID](https://orcid.org/0000-0002-6118-2149)
+
+## Peer‑Reviewed Articles
+
+<!-- -   **Howard, D.**, Coauthors (2024). *Paper Title*. Journal Name.\ -->
+
+<!--     [DOI](https://doi.org/xxx) -->
+
+### In review
+
+-   Lewis, A., D. Richardson, **D.W. Howard**, C.C. Carey, Y. Amitai, S. Bansal, E. De Eyto, H.P. Grossart, K. Hoffman, R. Hovel, L. Knoll, B. Kraemer, I. Oleksy, M. Schmid, R. Schwefel, D. Straile, X. Sun, G. Weyhenmeyer, W. Woelmer, S. Wollrab, P. Znachor. How should we analyze seasons and seasonality in lakes? In revision at L&O Letters
+
+-   Lofton, M., R.Q. Thomas, F. Olsson, A. Neog, S. Fatemi, A. Karpatne, A. BreefPilz, **D.W. Howard**, H. Wander, C. Carey. The importance of a multi-model ensemble for predicting variable ecological time series across dynamic conditions. In review at Ecological Applications. Pre-print available at: https://essopenarchive.org/doi/full/10.22541/essoar.174785900.05100209
+
+### 2026
+
+-   **Howard, D.W.**, M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C. Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. In revision at JGR Biogeosciences. Pre-print available at: https://essopenarchive.org/doi/full/10.22541/essoar.174715172.29580093
+
+-   Hounshell, A.G., A.S.L. Lewis, **D.W. Howard**, H.L. Wander, M.E. Lofton, P.C. Hanson, C.C. Carey. Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir. In revision at Aquatic Sciences In review
+
+### 2025
+
+-   Wander, H.L., M.E. Lofton, J.P. Doubek, D.W. Howard, M.R. Hipsey, R.Q. Thomas, C.C. Carey. Warming air temperatures alter the timing and magnitude of reservoir zooplankton biomass. Ecological Modeling. doi:10.1016/j.ecolmodel.2025.111272
+
+### 2024
+
+-   Ming, C.L., A. Breef-Pilz, **D.W. Howard**, M.E. Schreiber. Geochemical drivers of manganese removal in drinking water reservoirs under hypolimnetic oxygenation. Applied Geochemistry. doi:10.1016/j.apgeochem.2024.106120
+
+-   **Howard, D.W.**, J.A. Brentrup, D.C. Richardson, A.S.L. Lewis, F. Olsson, C.C. Carey. Variability in ice cover does not affect annual metabolism estimates in a small eutrophic reservoir. JGR Biogeosciences. doi:10.1029/2024JG008057
+
+-   Wander, H.L., A.S.L Lewis, **D.W. Howard**, W.M. Woelmer, B.L. Brown, M. Lofton, C.C. Carey. Zooplankton exhibit multiple diel migration strategies and substantial interannual changes in community structure in a eutrophic reservoir. Journal of Plankton Research. doi:10.1093/plankt/fbae017
+
+-   Lewis, A.S.L, A. Breef-Pilz, **D.W. Howard**, M.E. Lofton, F. Olsson, H.L. Wander, C.E. Wood, M.E. Schreiber, C.C. Carey. Reservoir Drawdown Highlights the Emergent Effects of Water Level Change on Reservoir Physics, Chemistry, and Biology. JGR Biogeosciences. doi:10.1029/2023JG007780
+
+-   Lewis, A.SL., M.P. Lau, S.F. Jane, K.C. Rose, Y. Be´eri-Shlevin, S.H. Burnet, F. Clayer, O. Erina, H. Feuchtmayr, H.P. Grossart, **D.W. Howard**, H. Mariash, J. D. Martin, R.L. North, I. Oleksy, R.M. Pilla, A.P. Smagula, R. Sommaruga, S.E. Steiner, P. Verburg, D. Wain, G.A. Weyhenmeyer, C.C. Carey. Anoxia Begets Anoxia: a positive feedback to the deoxygenation of temperate lakes. Global Change Biology. doi:10.1111/gcb.17046
+
+### 2023
+
+-   Lewis, A.S.L, **D.W. Howard**, G. Koren, C. Kowalski, J. McLachlan, J.A. Peters, O. Tabares, G. Smies. Ethics in forecasting: a case-based learning set. Teaching Issues and Experiments in Ecology. Vol. 19: Practice #13. https://tiee.esa.org/vol/v19/issues/case_studies/lewis/abstract.html, teaching resources additionally hosted at QUBES Educational Resources. doi:10.25334/5D99-Y019
+
+-   Lofton, M.E., **D.W. Howard**, R.Q. Thomas, C.C. Carey. Progress and opportunities in advancing near-term forecasting of freshwater quality. Global Change Biology. doi: 10.1111/gcb.16590
+
+### 2022
+
+-   Lofton, M.E., **D.W. Howard**, R.P. McClure, H.L. Wander, W.M. Woelmer, A.G. Hounshell, A.S.L. Lewis, C.C. Carey. Experimental thermocline deepening alters vertical distribution and community structure of phytoplankton in a four-year whole-reservoir manipulation. Freshwater Biology. doi: 10.1111/fwb.13983
+
+-   Lewis, A. S. L., W.M. Woelmer, H.L. Wander, **D.W. Howard**, J.W. Smith, R.P. McClure, M.E. Lofton, N.W. Hammond, R.S. Corrigan, R.Q. Thomas, C.C. Carey. Increased adoption of best practices in ecological forecasting enables comparisons of forecastability. Ecological Applications. doi: 10.1002/eap.2500
+
+-   Carey, C.C., W.M. Woelmer, M.E. Lofton, R.J. Figueiredo, B.J. Bookout, R.S. Corrigan, V. Daneshmand, A.G. Hounshell, **D.W. Howard**, A.S.L. Lewis, R.P. McClure, H.L. Wander, N.K. Ward, R.Q. Thomas. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. Inland Waters doi: 10.1080/20442041.2020.1816421
+
+### 2021
+
+-   **Howard, D.W.**, A.G. Hounshell, M.E. Lofton, W.M. Woelmer, P.C. Hanson, C.C. Carey. Variability in fluorescent dissolved organic matter concentrations across diel to seasonal time scales is driven by water temperature and meteorology in a eutrophic reservoir. Aquatic Sciences 83, 30. doi: 10.1007/s00027-021-00784-w
+
+------------------------------------------------------------------------
+
+# Select Data Publications
+
+See [CV](Howard_fullCV.pdf) for full list of data publications
+
+### 2026
+
+-   **Howard, D.W.**, A.G. Hounshell, A. Breef-Pilz, K.A. Peeler, D.T. Scott, and C.C. Carey. 2026. Time series of optical measurements (absorbance, fluorescence) for Beaverdam Reservoir, Carvins Cove Reservoir, and Falling Creek Reservoir in southwestern Virginia, USA 2019-2025 ver 2. Environmental Data Initiative. https://doi.org/10.6073/pasta/0355e1d79ba59fd3e910e676b899dcb8
+
+-   **Howard, D.W.**, K.A. Peeler, A. Breef-Pilz, D.T. Scott, and C.C. Carey. 2026. Time series of stable water isotopes (d18O, d2H) from Carvins Cove Reservoir in Southwestern Virginia, USA 2024-2025 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/aa2f7e49fb18519fee53585dd5596937
+
+-   Carey, C.C., A. Breef-Pilz, A.E. Bateman, and **D.W. Howard**. 2026. Manually-collected discharge data for multiple inflow and outflow tributaries at Falling Creek Reservoir, Beaverdam Reservoir, and Carvins Cove Reservoir, Virginia, USA from 2019-2025 ver 9. Environmental Data Initiative. https://doi.org/10.6073/pasta/73a63480443d39bcac19ed0bae2aa214
+
+### 2025
+
+-   Carey, C.C., **D.W. Howard**, K.K. Hoffman, M. Popescu, A. Breef-Pilz, and F.M. Iannucci. 2025. Water chemistry time series for Beaverdam Reservoir, Carvins Cove Reservoir, Falling Creek Reservoir, Gatewood Reservoir, and Spring Hollow Reservoir in southwestern Virginia, USA 2013-2024 ver 13. Environmental Data Initiative. https://doi.org/10.6073/pasta/39db9e3463ae02d9e756e258ff5afb0e
+
+-   Carey, C.C., A. Breef-Pilz, K.K. Hoffman, **D.W. Howard**, S. Kenny, E. Tipper, and S. Tannheiser. 2025. Filtered chlorophyll a time series for Beaverdam Reservoir, Carvins Cove Reservoir, Claytor Lake, Falling Creek Reservoir, Gatewood Reservoir, Smith Mountain Lake, Spring Hollow Reservoir in southwestern Virginia, and Lake Sunapee in Sunapee, New Hampshire, USA during 2014-2024 ver 5. Environmental Data Initiative. https://doi.org/10.6073/pasta/7cc4e7541c75738e5c4d6bb948c2df8e
+
+-   Schreiber, M.E., C.E. Bauer, C.E. Wood, A. Breef-Pilz, N.W. Hammond, F. Iannuci, W.M. Woelmer, **D.W. Howard**, H.L. Wander, and B.R. Niederlehner. 2025. Time series of total metal and nutrient loads into Falling Creek Reservoir in southwestern Virginia, USA from 2019-2024 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/5a77855d308043f20f953d258b570fb7
+
+### 2024
+
+-   Carey, C.C., A. Breef-Pilz, **D.W. Howard**, and A.D. Delany. 2024. Time series of high-frequency sensor data measuring water temperature, dissolved oxygen, conductivity, specific conductance, total dissolved solids, chlorophyll a, phycocyanin, and fluorescent dissolved organic matter at discrete depths in Carvins Cove Reservoir, Virginia, USA in 2020-2023 ver 2. Environmental Data Initiative. https://doi.org/10.6073/pasta/5995542a893c73583a65f511463410cf
+
+-   Carey, C.C., A. Breef-Pilz, **D.W. Howard**, and A.D. Delany. 2024. Time series of high-frequency meteorological data at Carvins Cove Reservoir, Virginia, USA 2021-2023 ver 2. Environmental Data Initiative. https://doi.org/10.6073/pasta/8101e224a95adcae1a938855f198ec34
+
+-   Carey, C.C., A. Breef-Pilz, and **D.W. Howard**. 2024. Manually-collected discharge data for multiple inflow tributaries entering Falling Creek Reservoir, Beaverdam Reservoir, and Carvins Cove Reservoir, Virginia, USA from 2019-2023 ver 7. Environmental Data Initiative. https://doi.org/10.6073/pasta/805eb3da2e714f249793d0ff2f11d8f1
+
+### 2023
+
+-   Carey, C.C., H.L. Wander, **D.W. Howard**, A. Breef-Pilz, and B.R. Niederlehner. 2023. Water chemistry time series for Beaverdam Reservoir, Carvins Cove Reservoir, Falling Creek Reservoir, Gatewood Reservoir, and Spring Hollow Reservoir in southwestern Virginia, USA 2013-2022 ver 11. Environmental Data Initiative. https://doi.org/10.6073/pasta/457120a9de886a1470c22a01d808ab2d
+
+-   Carey, C.C., **D.W. Howard**, P.A. Gantzer, R.P. McClure, A.B. Gerling, M.E. Lofton, A. Breef-Pilz, and WVWA. 2023. Time series of high-frequency sensors measuring water temperature and dissolved oxygen at discrete depths in Falling Creek Reservoir, Virginia, USA in 2012-2018 ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/964a5bbbb4d5826b5acb30098dbae59a
+
+### 2022
+
+-   Carey, C.C., A.S. Lewis, **D.W. Howard**, W.M. Woelmer, P.A. Gantzer, K.A. Bierlein, J.C. Little, and WVWA. 2022. Bathymetry and watershed area for Falling Creek Reservoir, Beaverdam Reservoir, and Carvins Cove Reservoir ver 1. Environmental Data Initiative. https://doi.org/10.6073/pasta/352735344150f7e77d2bc18b69a22412

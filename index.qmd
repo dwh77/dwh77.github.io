@@ -1,0 +1,28 @@
+---
+title: "Dexter Howard"
+---
+
+<!-- ::: center -->
+
+<!-- ![Dexter Howard](images/Howard_Dexter_265-4155.jpg){.profile} -->
+
+<!-- ::: -->
+
+![](images/Howard_Dexter_265-4155.jpg){style="float:right; padding-right:10px; width:200px; alt:'Dexter Howard'"}
+
+I am a PhD candidate in the Carey Lab at Virginia Tech, specializing in water quality research. My research focuses on organic carbon dynamics in reservoirs and how these change over both spatial and temporal scales using field sampling, analytical techniques, and modeling.
+
+I am passionate about education and have gained experience through laboratory instruction and development of educational modules.
+
+### Education
+
+<!-- -   **Ph.D. in Biological Sciences**, Virginia Tech, 2021 - expected 2026 -->
+-   **B.S. in Water: Resources, Policy, and Management**, (minors in Biological Sciences and Environmental Economics), Virginia Tech, 2016 - 2020
+
+## Connect
+
+Email: [dwh1998\@vt.edu](mailto:dwh1998@vt.edu)\
+[LinkedIn](https://www.linkedin.com/in/dexter-howard-593494199/) \| [GitHub](https://github.com/dwh77)\
+[Google Scholar](https://scholar.google.com/citations?user=I7AaxoAAAAAJ) \| [ResearchGate](https://www.researchgate.net/profile/Dexter-Howard) \| [ORCID](https://orcid.org/0000-0002-6118-2149) 
+
+
