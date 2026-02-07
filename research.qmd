@@ -1,13 +1,12 @@
 ---
 title: "Research"
-class: research-bg
 ---
 
 ## Freshwater Ecosystem Ecology
 
 I have wide-ranging experiences in aquatic ecology. I have worked on projects spanning carbon and nutrient cycling to plankton community composition using a variety of field, laboratory, and modeling techniques.
 
-![](images/CCR_2018.jpg){width="500"}
+<!-- ![](images/CCR_2018.jpg){width="500"} -->
 
 ------------------------------------------------------------------------
 
@@ -17,7 +16,7 @@ Since 2018, I have worked on multiple projects examining the **drivers and varia
 
 ### PhD Projects
 
-![](images/DWH_ccr_exos.jpg){style="float:right; padding-right:10px; width:200px; alt:'Dexter Howard with EXO2 sensors at Carvins Cove Reservoir'"}
+![](images/DWH_ccr_exos.jpg){style="float:right; padding-right:10px; width:220px; alt:'Dexter Howard with EXO2 sensors at Carvins Cove Reservoir'"}
 
 -   Understanding stream OC exports using hydro-ecological models
 
@@ -27,7 +26,7 @@ Since 2018, I have worked on multiple projects examining the **drivers and varia
 
 -   Effects of variable ice cover on lake metabolism (GPP and ER) in a southern Appalachian reservoir
 
-![](images/FCR_26jan16_JeffBooth.jpg){style="float:right; padding-right:10px; width:200px; alt:'Falling Creek Reservoir frozen in 2016. Photo credit: J. Booth'"}
+![](images/FCR_26jan16_JeffBooth.jpg){style="float:right; padding-right:10px; width:220px; alt:'Falling Creek Reservoir frozen in 2016. Photo credit: J. Booth'"}
 
 ### Previous Work
 

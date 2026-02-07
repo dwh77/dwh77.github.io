@@ -26,3 +26,11 @@ Email: [dwh1998\@vt.edu](mailto:dwh1998@vt.edu)\
 [Google Scholar](https://scholar.google.com/citations?user=I7AaxoAAAAAJ) \| [ResearchGate](https://www.researchgate.net/profile/Dexter-Howard) \| [ORCID](https://orcid.org/0000-0002-6118-2149) 
 
 
+```{r}
+#| include: false
+# Prompt R
+Sys.Date()
+```
+
+
+ Updated `r as.character(Sys.Date())`  

@@ -1,9 +1,6 @@
 ---
 title: "Teaching"
-class: teaching-bg
 ---
-
-# Teaching
 
 I am passionate about education and preparing the next generation to tackle pressing environmental issues. I have worked on two separate educational modules while in graduate school in addition to teaching multiple lab sessions.
 
@@ -13,9 +10,9 @@ I am passionate about education and preparing the next generation to tackle pres
 
 *Virginia Tech, Biological Sciences*
 
-![](images/FWE_teaching_duckpond.jpg){style="float:right; padding-right:10px; width:200px; alt:'Dexter Howard'"}
+![](images/FWE_teaching_duckpond.jpg){style="float:right; padding-right:10px; width:220px; alt:'Dexter Howard'"}
 
-During the Fall semesters in 2021 - 2025, I led a lab of approximately 16 students and assisting with another of similar size. My role involved guiding students on field trips and lab activities, teaching the fundamentals of freshwater ecology sampling and monitoring. I helped students develop and execute semester-long group research projects, where they developed their own research questions, collected and analyzed data, and presented their results. As the lab session instructor, I was responsible for all grading, and I also assisted with exam grading for the lecture component of the class.
+During the Fall semesters in 2021 - 2025, I led a lab of approximately 18 students and assisting with another of similar size. My role involved guiding students on field trips and lab activities, teaching the fundamentals of freshwater ecology sampling and monitoring. I helped students develop and execute semester-long group research projects, where they developed their own research questions, collected and analyzed data, and presented their results. As the lab session instructor, I was responsible for all grading, and I also assisted with exam grading for the lecture component of the class.
 
 ------------------------------------------------------------------------
 

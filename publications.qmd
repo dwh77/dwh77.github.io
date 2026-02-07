@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-class: pubs-bg
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=I7AaxoAAAAAJ) \| [ResearchGate](https://www.researchgate.net/profile/Dexter-Howard) \| [ORCID](https://orcid.org/0000-0002-6118-2149)
@@ -19,9 +18,9 @@ class: pubs-bg
 
 ### 2026
 
--   **Howard, D.W.**, M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C. Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. In revision at JGR Biogeosciences. Pre-print available at: https://essopenarchive.org/doi/full/10.22541/essoar.174715172.29580093
+-   **Howard, D.W.**, M.E. Lofton, R.Q. Thomas, A.D. Delany, A. Breef-Pilz, C.C. Carey. Near-term forecasts of dissolved organic matter exhibit consistent patterns of accuracy across multiple freshwater reservoirs. JGR Biogeosciences. doi:10.1029/2025JG009064
 
--   Hounshell, A.G., A.S.L. Lewis, **D.W. Howard**, H.L. Wander, M.E. Lofton, P.C. Hanson, C.C. Carey. Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir. In revision at Aquatic Sciences In review
+-   Hounshell, A.G., A.S.L. Lewis, **D.W. Howard**, H.L. Wander, M.E. Lofton, P.C. Hanson, C.C. Carey. Dissolved organic carbon dynamics are driven by water temperature, primary production, and anoxia over five years of whole-ecosystem experiments in a eutrophic reservoir. Aquatic Sciences. doi:10.1007/s00027-025-01252-5
 
 ### 2025
 
