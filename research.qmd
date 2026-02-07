@@ -28,7 +28,7 @@ Since 2018, I have worked on multiple projects examining the **drivers and varia
 
 ### Previous Work
 
--   Undergraduate senior thesis on OC variability using high-frequency sensors and time-series modeling
+-   Undergraduate senior thesis on DOM variability using high-frequency sensors and time-series modeling
 
 ------------------------------------------------------------------------
 
