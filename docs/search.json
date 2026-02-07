@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Dexter Howard",
     "section": "",
-    "text": "I am a PhD candidate in the Carey Lab at Virginia Tech, specializing in water quality research. My research focuses on organic carbon dynamics in reservoirs and how these change over both spatial and temporal scales using field sampling, analytical techniques, and modeling.\nI am passionate about education and have gained experience through laboratory instruction and development of educational modules."
+    "text": "I am a PhD candidate in the Carey Lab at Virginia Tech, specializing in water quality research. My research focuses on carbon cycling in reservoirs and how these change over both spatial and temporal scales using field sampling, analytical techniques, and modeling.\nI am passionate about education and have gained experience through laboratory instruction and development of educational modules."
   },
   {
     "objectID": "index.html#connect",
     "href": "index.html#connect",
     "title": "Dexter Howard",
     "section": "Connect",
-    "text": "Connect\nEmail: dwh1998@vt.edu\nLinkedIn | GitHub\nGoogle Scholar | ResearchGate | ORCID\nUpdated 2026-02-07"
+    "text": "Connect\nEmail: dwh1998@vt.edu\nLinkedIn | GitHub\nGoogle Scholar | ResearchGate | ORCID\nWebsite Updated 2026-02-07"
   },
   {
     "objectID": "publications.html",
@@ -46,7 +46,7 @@
     "href": "research.html#reservoir-carbon-cycling",
     "title": "Research",
     "section": "Reservoir Carbon Cycling",
-    "text": "Reservoir Carbon Cycling\nSince 2018, I have worked on multiple projects examining the drivers and variability of dissolved organic matter (DOM) in drinking water reservoirs.\n\nPhD Projects\n\n\nUnderstanding stream DOM exports using hydro-ecological models\nSpatial patterns of DOM composition and concentration across a reservoir watershed\nForecastability of DOM concentrations using high-frequency sensors and meteorological forecasts\nEffects of variable ice cover on lake metabolism (GPP and ER) in a southern Appalachian reservoir\n\n\n\nPrevious Work\n\nUndergraduate senior thesis on OC variability using high-frequency sensors and time-series modeling"
+    "text": "Reservoir Carbon Cycling\nSince 2018, I have worked on multiple projects examining the drivers and variability of dissolved organic matter (DOM) in drinking water reservoirs.\n\nPhD Projects\n\n\nUnderstanding stream DOM exports using hydro-ecological models\nSpatial patterns of DOM composition and concentration across a reservoir watershed\nForecastability of DOM concentrations using high-frequency sensors and meteorological forecasts\nEffects of variable ice cover on lake metabolism (GPP and ER) in a southern Appalachian reservoir\n\n\n\nPrevious Work\n\nUndergraduate senior thesis on DOM variability using high-frequency sensors and time-series modeling"
   },
   {
     "objectID": "research.html#broader-interests",
@@ -75,5 +75,12 @@
     "title": "Teaching",
     "section": "Educational Module Development",
     "text": "Educational Module Development\n\nEthics in Ecological Forecasting\nWe developed a set of case studies modules to be used in undergraduate or graduate classes that discuss ethical considerations of developing and disseminating ecological forecasts. These modules were developed with collaborators from the Ecological Forecasting Initiative.\nArticle on modules: Lewis et al. 2024. Ethics in forecasting: a case-based learning set. Teaching Issues and Experiments in Ecology. Vol. 19: Practice #13.\nTeaching resources additionally hosted at QUBES Educational Resources. doi:10.25334/5D99-Y019\n\n\nBuilding Cultural Awareness: Native American Identity Module\nCo-developed a self-paced course for Virginia Tech students and employees to teach about Native American communities, their citizens, current challenges, and support strategies. This module was developed with collaborators from the Ati: Wa:oki Indigenous Community Center and Global Change Center at Virginia Tech."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
