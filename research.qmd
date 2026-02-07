@@ -10,23 +10,21 @@ I have wide-ranging experiences in aquatic ecology. I have worked on projects sp
 
 ------------------------------------------------------------------------
 
-## Reservoir Organic Carbon Dynamics
+## Reservoir Carbon Cycling
 
-Since 2018, I have worked on multiple projects examining the **drivers and variability of organic carbon (OC)** in drinking water reservoirs.
+Since 2018, I have worked on multiple projects examining the **drivers and variability of dissolved organic matter (DOM)** in drinking water reservoirs.
 
 ### PhD Projects
 
-![](images/DWH_ccr_exos.jpg){style="float:right; padding-right:10px; width:220px; alt:'Dexter Howard with EXO2 sensors at Carvins Cove Reservoir'"}
+![](images/DWH_ccr_exos.jpg){style="float:right; padding-right:10px; width:250px; alt:'Dexter Howard with EXO2 sensors at Carvins Cove Reservoir'"}
 
--   Understanding stream OC exports using hydro-ecological models
+-   Understanding stream DOM exports using hydro-ecological models
 
--   Spatial patterns of OC composition and concentration across a reservoir watershed
+-   Spatial patterns of DOM composition and concentration across a reservoir watershed
 
--   Forecastability of OC concentrations using **high-frequency sensors** and meteorological forecasts
+-   Forecastability of DOM concentrations using high-frequency sensors and meteorological forecasts
 
 -   Effects of variable ice cover on lake metabolism (GPP and ER) in a southern Appalachian reservoir
-
-![](images/FCR_26jan16_JeffBooth.jpg){style="float:right; padding-right:10px; width:220px; alt:'Falling Creek Reservoir frozen in 2016. Photo credit: J. Booth'"}
 
 ### Previous Work
 
@@ -35,6 +33,8 @@ Since 2018, I have worked on multiple projects examining the **drivers and varia
 ------------------------------------------------------------------------
 
 ## Broader Interests
+
+![](images/FCR_26jan16_JeffBooth.jpg){style="float:right; padding-right:10px; width:350px; alt:'Falling Creek Reservoir frozen in 2016. Photo credit: J. Booth'"}
 
 -   Limnology\
 -   Aquatic biogeochemistry\
